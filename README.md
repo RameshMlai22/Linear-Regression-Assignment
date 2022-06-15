@@ -1,6 +1,6 @@
 # Project Name
 > Outline a brief description of your project.
-
+Linear Regression Assignment
 
 ## Table of Contents
 * [General Info](#general-information)
