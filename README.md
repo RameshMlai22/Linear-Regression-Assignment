@@ -1,2 +1,3 @@
 # Linear Regression Assignment
 >   We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how     exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
+  As per the given data, cnt variable is a dependent(target variable) and all the remaining are indepenedent variables(predictor variables). We need to build a linear regression model based on the given data by selecting the variables which effect the cnt model.
